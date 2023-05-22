@@ -1,0 +1,4 @@
+CREATE TABLE ANIMALS
+   (	TYPE VARCHAR2(20)
+   ) ;
+
