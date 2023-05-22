@@ -1,0 +1,12 @@
+{
+  "Comments": [],
+  "General": [
+    {
+      "EDITIONABLE": "Y",
+      "OBJECT_NAME": "SECURE_EMPLOYEES",
+      "OBJECT_TYPE": "TRIGGER",
+      "STATUS": "DISABLED"
+    }
+  ],
+  "Grants": []
+}

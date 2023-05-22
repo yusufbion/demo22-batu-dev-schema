@@ -1,0 +1,16 @@
+{
+  "Comments": [],
+  "General": [
+    {
+      "CACHE_SIZE": 0.0,
+      "CYCLE_FLAG": "N",
+      "INCREMENT_BY": 100.0,
+      "MAX_VALUE": 9900.0,
+      "MIN_VALUE": 1.0,
+      "ORDER_FLAG": "N",
+      "SEQUENCE_NAME": "LOCATIONS_SEQ",
+      "TYPE": "SEQUENCE"
+    }
+  ],
+  "Grants": []
+}

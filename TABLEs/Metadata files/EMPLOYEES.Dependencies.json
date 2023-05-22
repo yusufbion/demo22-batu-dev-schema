@@ -1,0 +1,17 @@
+[
+  {
+    "schema": "",
+    "name": "DEPARTMENTS",
+    "type": "TABLE"
+  },
+  {
+    "schema": "",
+    "name": "EMPLOYEES",
+    "type": "TABLE"
+  },
+  {
+    "schema": "",
+    "name": "JOBS",
+    "type": "TABLE"
+  }
+]

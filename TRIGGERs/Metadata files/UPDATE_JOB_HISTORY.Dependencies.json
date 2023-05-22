@@ -1,0 +1,17 @@
+[
+  {
+    "schema": "",
+    "name": "ADD_JOB_HISTORY",
+    "type": "PROCEDURE"
+  },
+  {
+    "schema": "",
+    "name": "EMPLOYEES",
+    "type": "TABLE"
+  },
+  {
+    "schema": "",
+    "name": "STANDARD",
+    "type": "PACKAGE_SPEC"
+  }
+]

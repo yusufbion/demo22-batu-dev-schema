@@ -1,0 +1,16 @@
+{
+  "Comments": [],
+  "General": [
+    {
+      "CACHE_SIZE": 0.0,
+      "CYCLE_FLAG": "N",
+      "INCREMENT_BY": 10.0,
+      "MAX_VALUE": 9990.0,
+      "MIN_VALUE": 1.0,
+      "ORDER_FLAG": "N",
+      "SEQUENCE_NAME": "DEPARTMENTS_SEQ",
+      "TYPE": "SEQUENCE"
+    }
+  ],
+  "Grants": []
+}

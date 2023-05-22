@@ -1,0 +1,12 @@
+{
+  "Comments": [],
+  "General": [
+    {
+      "EDITIONABLE": "Y",
+      "OBJECT_NAME": "UPDATE_JOB_HISTORY",
+      "OBJECT_TYPE": "TRIGGER",
+      "STATUS": "ENABLED"
+    }
+  ],
+  "Grants": []
+}

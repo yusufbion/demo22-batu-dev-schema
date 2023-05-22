@@ -1,0 +1,16 @@
+{
+  "Comments": [],
+  "General": [
+    {
+      "CACHE_SIZE": 0.0,
+      "CYCLE_FLAG": "N",
+      "INCREMENT_BY": 1.0,
+      "MAX_VALUE": 9999999999999999999999999999.0,
+      "MIN_VALUE": 1.0,
+      "ORDER_FLAG": "N",
+      "SEQUENCE_NAME": "EMPLOYEES_SEQ",
+      "TYPE": "SEQUENCE"
+    }
+  ],
+  "Grants": []
+}

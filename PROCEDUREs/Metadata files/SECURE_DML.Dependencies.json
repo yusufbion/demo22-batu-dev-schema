@@ -1,0 +1,17 @@
+[
+  {
+    "schema": "",
+    "name": "DBMS_STANDARD",
+    "type": "PACKAGE_SPEC"
+  },
+  {
+    "schema": "",
+    "name": "STANDARD",
+    "type": "PACKAGE_SPEC"
+  },
+  {
+    "schema": "",
+    "name": "SYS_STUB_FOR_PURITY_ANALYSIS",
+    "type": "PACKAGE_SPEC"
+  }
+]

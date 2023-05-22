@@ -1,0 +1,12 @@
+[
+  {
+    "schema": "",
+    "name": "EMPLOYEES",
+    "type": "TABLE"
+  },
+  {
+    "schema": "",
+    "name": "LOCATIONS",
+    "type": "TABLE"
+  }
+]
